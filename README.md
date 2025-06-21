@@ -1,1 +1,1 @@
-# CopyCatch-A-Plagiarism-Tool
+# CopyCatch : Smart Plagiarism Detector
